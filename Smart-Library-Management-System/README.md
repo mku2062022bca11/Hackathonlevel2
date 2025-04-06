@@ -54,12 +54,7 @@ table_creation.png: Screenshot of successful table creation.
 
 query_results.png: Screenshots of query outputs.
 
-📷 Screenshots Preview
-
-ER Diagram
-
-
-
+ 
 Query Outputs
 
 Fiction Books
